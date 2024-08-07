@@ -1,6 +1,3 @@
-             Мой стек: Linux Ubuntu, Bash, Regex, Git, Python, Django Framework, SQL, HTML, CSS, GIMP, Bootstrap  
-        Сейчас изучаю: Курс от Яндекс практикум "Как составить резюме"  
-    Собираюсь изучить: Веб-фреймворки
                        Flask: микрофреймворк для создания веб-приложений на Python
                        FastAPI: современный фреймворк для создания веб-приложений на Python
                        Django REST framework (DRF): фреймворк для создания RESTful API на Python
